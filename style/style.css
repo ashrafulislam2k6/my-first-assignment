@@ -186,7 +186,7 @@ footer {
 }
 
   /* hero section is end  */
-  /* ---------problem section style start-------- */
+  /* ?---------problem section style start-------- */
 #problem .problem-container {
     padding-top: 50px;
 }
@@ -229,9 +229,9 @@ footer {
     line-height:20px ;
     color:#627382 ;
 }
-/* ---------problem section style end-------- */
+/* !---------problem section style end-------- */
 
-/* ---------solution section start---------- */
+/*  ?---------solution section start---------- */
 
 #solution .solution-box {
     display: flex;
@@ -272,9 +272,9 @@ footer {
     color: #001931;
 }
 
-/* ---------solution section end------- */
+/*  ?---------solution section end------- */
 
-/* ----------call to action area style start------- */
+/*  !----------call to action area style start------- */
 
 #call-section .call-container {
     padding: 120px;
@@ -328,9 +328,9 @@ footer {
     color: #627382;
 }
 
-/* ----------call to action area style end------- */
+/* !----------call to action area style end------- */
 
-/* --------footer area style start------- */
+/* !--------footer area style start------- */
 footer {
     background-color: #001931;
 }
@@ -370,5 +370,5 @@ footer .footer-container .copyright {
 
 }
 
-/* --------footer area style end------- */
+/* ? --------footer area style end------- */
 
