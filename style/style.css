@@ -32,7 +32,7 @@
 }
 
 #solution,
-#cta-section,
+#call-section,
 footer {
     margin-top: 120px;
 }
@@ -273,4 +273,60 @@ footer {
 }
 
 /* ---------solution section end------- */
+
+/* ----------call to action area style start------- */
+
+#call-section .call-container {
+    padding: 120px;
+    text-align: center;
+    background-color: #F7F6F2;
+    border-radius: 12px;
+}
+
+#call-section .call-container .section-heading {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#call-section .call-container .cta-text {
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+    margin-bottom: 24px;
+}
+
+#call-section .call-container .cta-btn {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#call-section .call-container .cta-btn button {
+    font-size: 16px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 12px 16px;
+    background-color: #469165;
+    border: none;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 16px;
+    cursor: pointer;
+}
+
+.call-container .cta-btn button:hover {
+    transition: 1s ease;
+    transform: scale(1.2);
+    background: none;
+}
+
+#call-section .call-container .cta-info {
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
+
+/* ----------call to action area style end------- */
 
